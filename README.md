@@ -1,4 +1,4 @@
-"# SerpentTiamatXGamePlugin"
+# SerpentTiamatXGamePlugin
 
 *Game plugin for use with [SerpentAI](https://github.com/SerpentAI/SerpentAI)*
 
